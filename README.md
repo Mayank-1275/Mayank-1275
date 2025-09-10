@@ -1,4 +1,4 @@
-![logo](https://github.com/Mayank-1275/Mayank-1275/blob/main/trevor-vannoy-ufnhDMFOZ_M-unsplash.jpg)
+![logo](https://github.com/Mayank-1275/Mayank-1275/blob/main/new.jpg)
 <h1 align="center">Hi 👋, I'm Mayank Kumar Mihra</h1>
 <h3 align="center">Where others see numbers, I see insights.</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
